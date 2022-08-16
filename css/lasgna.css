@@ -1,0 +1,16 @@
+#center {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+}
+
+#img{
+    width: 100px;
+    height: 100px; 
+}
+
+#pizza{
+    width: 500px;
+    height: 300px; 
+}
